@@ -160,7 +160,7 @@ Position　Highlight（ダッシュボード統合時にハイライト, フィ�
 パラメーター＆フィルターを上部に配置
 
 GitHubのURL：
-https://gist.github.com/USHIZAKI-jp/281a6c8885698cab614aed9a3932ffdc
+https://github.com/USHIZAKI-jp/portfolio
 
 Tableau Public の公開 URL：
 https://public.tableau.com/views/A_17500823910050/5?:language=ja-JP&:sid=&:display_count=n&:origin=viz_share_link
