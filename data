@@ -1,1 +1,4 @@
-data/NBA_Stats.csv
+data/
+  NBA_Stats.csv
+  NBA_Stats.csv
+  nba_filtered.csv
