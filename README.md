@@ -163,6 +163,5 @@ GitHubのURL：
 https://github.com/USHIZAKI-jp/portfolio
 
 Tableau Public の公開 URL：
-https://public.tableau.com/views/A_17500823910050/5?:language=ja-JP&:sid=&:display_count=n&:origin=viz_share_link
-
+https://public.tableau.com/views/A_17500823910050/sheet0?:language=ja-JP&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
